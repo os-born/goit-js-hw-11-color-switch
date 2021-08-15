@@ -2,18 +2,22 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 200px;
+    padding: 150px;
 }
 
 
 button {
+    align-items: center;
     text-align: center ;
-    height: 150px;
-    width: 400px;
-    font-size: 40px;
+    height: 75px;
+    width: 200px;
+    font-size: 30px;
 }
 
 .conteiner{
-    padding: 350px;
-    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 250px;
+    
 }
